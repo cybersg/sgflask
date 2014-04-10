@@ -1,0 +1,15 @@
+Flask==0.10.1
+Flask-Bcrypt==0.5.2
+Flask-MongoKit==0.6
+Flask-RESTful==0.2.12
+Jinja2==2.7.2
+MarkupSafe==0.19
+Werkzeug==0.9.4
+aniso8601==0.82
+itsdangerous==0.24
+mongokit==0.9.1.1
+py-bcrypt==0.4
+pymongo==2.7
+pytz==2014.2
+six==1.6.1
+wsgiref==0.1.2
